@@ -25,6 +25,7 @@ Visualized prediction trends closely matched actual water usage data, demonstrat
 _________________________________________________________________________________________________________________________________________
 
 🔍 Code Structure
+
 📁 green-ai-water-usage
 ├── data/              # Dataset files
 ├── images/            # Visualizations & plots
@@ -71,6 +72,3 @@ Expand the dataset to include more geographical locations.
 __________________________________________________________________________________________________________________________________________
 📝 Conclusion
 This project successfully demonstrates how AI can be harnessed for environmental conservation through accurate water usage predictions, aiding in sustainable decision-making.
-
-
-
