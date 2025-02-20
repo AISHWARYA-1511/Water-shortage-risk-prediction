@@ -22,25 +22,9 @@ ________________________________________________________________________________
 📊 Results
 Achieved an R² score of X.XX and an MSE of Y.YY using the best-performing model (e.g., Random Forest).
 Visualized prediction trends closely matched actual water usage data, demonstrating model reliability.
-_________________________________________________________________________________________________________________________________________
-
-🔍 Code Structure
-
-📁 green-ai-water-usage
-├── data/              # Dataset files
-├── images/            # Visualizations & plots
-├── models/            # Saved ML models
-├── notebooks/         # Jupyter notebooks for EDA & modeling
-├── src/               # Source code
-│   ├── preprocessing.py
-│   ├── train_model.py
-│   ├── predict.py
-│   └── visualization.py
-├── requirements.txt   # Python dependencies
-└── README.md          # Project documentation
-
-_________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________
 📂 Installation
+
 1.Clone the repository:
 git clone https://github.com/your-username/green-ai-water-usage.git
 cd green-ai-water-usage
